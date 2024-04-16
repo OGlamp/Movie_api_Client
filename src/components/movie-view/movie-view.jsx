@@ -1,5 +1,3 @@
-import { MainView } from "../mainview/main-view";
-
 export const MovieView = ({ movie, onBackClick }) => {
   return (
     <div>
@@ -34,5 +32,3 @@ export const MovieView = ({ movie, onBackClick }) => {
     </div>
   );
 };
-
-export default MainView;
